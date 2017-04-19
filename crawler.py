@@ -10,7 +10,7 @@ def send_message(short,long):
 	return
 
 def crawl():
-	print("crawler called")
+	#print("crawler called")
 	#f = open("./notice_bank.txt","r")
 	#last_seen = 0
 	#for l in f:
